@@ -1,0 +1,6 @@
+C:\Users\Chris\Documents\GitHub\ModernMedicalStep0\ModernMedicalStep0\ModernMedicalStep0\bin\Debug\ModernMedicalStep0.exe.config
+C:\Users\Chris\Documents\GitHub\ModernMedicalStep0\ModernMedicalStep0\ModernMedicalStep0\bin\Debug\ModernMedicalStep0.exe
+C:\Users\Chris\Documents\GitHub\ModernMedicalStep0\ModernMedicalStep0\ModernMedicalStep0\bin\Debug\ModernMedicalStep0.pdb
+C:\Users\Chris\Documents\GitHub\ModernMedicalStep0\ModernMedicalStep0\ModernMedicalStep0\obj\Debug\ModernMedicalStep0.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\ModernMedicalStep0\ModernMedicalStep0\ModernMedicalStep0\obj\Debug\ModernMedicalStep0.exe
+C:\Users\Chris\Documents\GitHub\ModernMedicalStep0\ModernMedicalStep0\ModernMedicalStep0\obj\Debug\ModernMedicalStep0.pdb
